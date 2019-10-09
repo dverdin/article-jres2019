@@ -37,10 +37,10 @@ procurait la réalisation de la
 en nouvelle source de jouissance numérique.
 
 Un marché de l'informatique basse consommation existe de longue date mais il
-n'a intéressé à ma connaissance que les seuls technophiles :
-des logiciels de plus puissants et attractifs ont poussé les consommateurs à
-l'achat d'ordinateurs de plus en plus puissants, forcant ces derniers à
-renouveller régulièrement leur materiel en choisissant les processeurs de
+n'a intéressé à ma connaissance que les seuls technophiles&nbsp;:
+des logiciels plus puissants et attractifs ont poussé les consommateurs à
+l'achat d'ordinateurs de plus en plus puissants, les forcant à
+renouveler régulièrement leur matériel en choisissant les processeurs de
 dernière génération. Alors que la clairevoyance de Moore aurait pu permettre de
 réduire le
 [coût global de possession](https://fr.wikipedia.org/wiki/Co%C3%BBt_du_cycle_de_vie),
@@ -50,14 +50,14 @@ spécifique au numérique.
 
 Nous avons certes contribué à un bond formidable de l'humanité. Nous ne faisons en
 cela que vérifier la certitude que notre culture toute entière nous a poussés à
-ne jamais remettre en question : notre espèce jouit d'une évolution permanente d'une
+ne jamais remettre en question&nbsp;: notre espèce jouit d'une évolution permanente d'une
 technologie qui vient à bout de toutes les contraintes matérielles.
 Dès notre enfance, la fiction nous proposait une extension d'une réalité
-extraordinaire : les premiers pas de l'homme sur la lune ne seraient que les prémices
-d'une conquête spaciale dans laquelle
-* l'énergie et l'accès aux matières premières semblaient infinies
+extraordinaire&nbsp;: les premiers pas de l'homme sur la lune ne seraient que les prémices
+d'une conquête spaciale dans laquelle&nbsp;:
+* l'énergie et l'accès aux matières premières semblaient infinies&nbsp&nbsp;;
 * nous entretenions des conversations avec des ordinateurs d'une intelligence
-  comparable à la nôtre et où ,s'il advenait que la terre soit à ce point
+  comparable à la nôtre et où, s'il advenait que la terre soit à ce point
   transformée par l'homme qu'elle devienne inhabitable, nous pourrions
   terraformer une autre planète.
 
@@ -66,49 +66,49 @@ La technologie a rempli nos vies de gadgets qui semblent confirmer nos intuition
 nos maisons pour pouvoir parler à la télévision, demander l'heure ou la météo).
 
 Les plus technophiles s'abreuvent de flux d'informations qui nous annoncent un futur
-proche peuplé
-* d'hommes volants ([flyboard](https://fr.wikipedia.org/wiki/Flyboard))
-* de voitures autonomes
+proche peuplé&nbsp;:
+* d'hommes volants ([flyboard](https://fr.wikipedia.org/wiki/Flyboard))&nbsp;;
+* de voitures autonomes&nbsp;;
 * d'objets connectés qui interagiront pour augmenter notre réalité avec
-  des composants graphiques inspirés des meilleurs jeux video
-* d'une réinvention de la démocratie et de l'économie de marchés grâce à la blockchain
+  des composants graphiques inspirés des meilleurs jeux video&nbsp;;
+* d'une réinvention de la démocratie et de l'économie de marchés grâce à la blockchain&nbsp;;
 * d'intelligences artificielles qui nous remplaceront avantageusement ou nous
   assisteront dans toutes nos tâches intellectuelles, diagnostiquant plus surement que les
   médecins, anticipant la pensée du développeur pour écrire le code à sa place
   ([I tested all intelligent IDEs](https://livablesoftware.com/smart-intelligent-ide-programming/))
-  et découvrant des stratégies en jouant à des jeux que nous pratiquons depuis des siècles
+  et découvrant des stratégies en jouant à des jeux que nous pratiquons depuis des siècles&nbsp;;
   ([AlphaGo, Locked Strategies, and Eco-Cognitive Openness](https://www.mdpi.com/2409-9287/4/1/8/htm))
 * de tous ces avancées qui confirment notre foi dans une technologie qui servira l'élévation
   de l'humanité.
 
 Il n'y a plus qu'à demander à [HAL](https://fr.wikipedia.org/wiki/HAL_9000) des
 idées pour redonner foi en l'avenir à tous ces jeunes qui descendent dans la
-rue afin de quémander un futur, anxieuse de voir le tableau se noircir à chaque
-nouvelle annonce sur les effets du réchauffement climatique. Si il n'a rien
+rue afin de quémander un futur, anxieux de voir le tableau se noircir à chaque
+nouvelle annonce sur les effets du réchauffement climatique. S'il n'a rien
 perdu de son sang froid, il se mettra probablement lui-même hors tension,
 première intelligence artificielle à commettre un suicide.
 
-Car tout porteur de solution qu'il puisse être, HAL fait avant tout partie du problème:
-le numérique participe de plus en plus activement aux problèmes environementaux que nous
+Car tout porteur de solution qu'il puisse être, HAL fait avant tout partie du problème&nbsp;:
+le numérique participe de plus en plus activement aux problèmes environnementaux que nous
 ne pourrons résoudre qu'en acceptant de que nous allons devoir sacrifier une partie
-de nos certitude pour sauvegarder une partie de notre qualité de vie: c'est un troque
+de nos certitude pour sauvegarder une partie de notre qualité de vie: c'est un troc
 dans lequel nous serons perdants quoi qu'il arrive.
 
 Dans l'étude
 "[unsustainable use of online video](https://theshiftproject.org/en/article/unsustainable-use-online-video/)",
 on peut lire entre autre que le numérique représente 4% de nos rejets de
-gaz à effets de serre (déjà plus que l'aviation civile) avec un volume qui croit de 9% par an. Dans
+gaz à effets de serre (déjà plus que l'aviation civile) avec un taux de croissance de 9% par an. Dans
 [la version 2019 de "toward the digital sobriety"](https://theshiftproject.org/wp-content/uploads/2019/03/Lean-ICT-Report_The-Shift-Project_2019.pdf),
 un graphique montre que même en appliquant le plan de sobriété proposé par le
 [shift project](https://theshiftproject.org/wp-content/uploads/2019/03/Lean-ICT-Report_The-Shift-Project_2019.pdf),
 nous ne ferons que ralentir la croissance du phénomène (même en étant
-optimistes, nous pollurons plus en 2025 qu'aujourd'hui).
+optimistes, nous polluerons plus en 2025 qu'aujourd'hui).
 
 
 
 ![digital energy consumption](images/digital-energy-consumption.png)
 
-Dans un contexte ou la
+Dans un contexte où la
 [collapsologie](https://fr.wikipedia.org/wiki/Collapsologie collapsologie)
 et le
 [survivalisme](https://fr.wikipedia.org/wiki/Survivalisme survivalisme)
@@ -119,11 +119,10 @@ nous préparer à l'effondrement (lire "d'un effondrement à l'autre"(https://ww
 est une chronique de France Culture qui revient sur la vague de réaction crée par la publication
 de "[What if we stop pretending](https://www.newyorker.com/culture/cultural-comment/what-if-we-stopped-pretending)"
 de [Jonathan Franzen](https://fr.wikipedia.org/wiki/Jonathan_Franzen)),
-que les vagues de chaleur pourraient faire 150.000 morts par ans à la fin du siècle
-([Increasing risk over time of weather-related hazards to the European population : a data-driven prognostic study](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(17)30082-7/fulltext?elsca1=tlpr))
+que les vagues de chaleur pourraient faire 150&nbsp;000 morts par ans à la fin du siècle
+([Increasing risk over time of weather-related hazards to the European population : a data-driven prognostic study](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(17)30082-7/fulltext?elsca1=tlpr)).
 
-il est à envisager qu'un pendant numérique du [Flygskam](https://fr.wikipedia.org/wiki/Honte_de_prendre_l%27avion)
-apparaîtra : nos activités numériques les plus courantes paraîtront aussi
+On peut envisager qu'apparaisse un pendant numérique du [Flygskam](https://fr.wikipedia.org/wiki/Honte_de_prendre_l%27avion)&nbsp;: nos activités numériques les plus courantes paraîtront aussi
 obscènes que l'est aujourd'hui l'idée qu'une personne bien portante se serve
 d'un véhicule tout-terrain pour parcourir les 150 mètres qui le séparent de la
 boulangerie (alors que nous ne sommes qu'à quelques décennies à peine du
@@ -133,53 +132,47 @@ Sauver la planète (ou plutôt l'écosystème actuel, la branche sur laquelle
 est assise tout le vivant en général et l'humanité en particulier) devient pour
 beaucoup, chacun à sa manière, un engagement quotidien.
 
-Mais alors que devenir locavore, végétarien, recycler, installer des toilettes
-sèches, faire un usage modéré des transports (en privilégiant les transports en
-commun) ne nécessitent que l'assimilation de quelques règles simples, de la bonne
-volonté et (selon l'environnement immédiat) un peu d'organisation, demander à un
+Mais alors que devenir locavore ou végétarien ne nécessite que l'assimilation de quelques règles simples, de la bonne
+volonté et un peu d'organisation, demander à un
 utilisateur de réduire sa consommation numérique exige de lui une compréhension
-des dépenses énergétiques de systèmes complexes et hétérogènes. Les bonnes
-pratiques sont affaire de circonstances et nous sommes nous-même dépassés par
-le nombre de paramètres qui auront une incidence sur l'acquisition d'un réflexe
-ecolo ^[mon expérience des débats sur l'écologie numérique m'a fait prendre
+des dépenses énergétiques de systèmes complexes et hétérogènes. Nous-mêmes, informaticiens, sommes dépassés par
+le nombre de paramètres qui auront une incidence positive sur l'environnement. Comment alors faire des préconisattions sur ce que doit être, dans notre domaine, un réflexe
+écolo&nbsp;?^[mon expérience des débats sur l'écologie numérique m'a fait prendre
 conscience que de nombreuses questions apparemment simples trouvent des réponses
 complexes qui ne permettent pas de dégager des "éco-gestes" puisque selon le
 contexte, un même geste pourra avoir des inpacts différents]
 
-Si à titre professionnel ou personnel, nous sommes impliqués dans
+Dès lors que nous sommes, à titre professionnel ou personnel, impliqués dans
 le développement, l'architecture, le support ou l'exploitation d'un
-service numérique, nous sommes à la fois les fournisseurs et les consommateurs
+service numérique, nous devenons à la fois les fournisseurs et les consommateurs
 de ce rêve et de ses implications. Nous avons rendu les fondements de notre
 société et une grande majorité de nos concitoyens toujours plus dépendants
-d'applications qui sont parfois bien plus que du confort (enjeux
-démocratiques, sécurité, médical, ...) et qui affaiblit toute envie de renoncement
-pour des problèmes qui nous nous échappent par leur complexité et leurs proportions.
+d'applications. Celles-ci sont parfois bien plus que du confort&nbsp;; certaines nous aident à appréhender, croire résoudre des problèmes complexes&nbsp;: enjeux
+démocratiques, sécurité, médical, etc. Il semble absurde de devoir s'en passer.
 Tout cela semble d'autant plus lointains et peu perceptibles que les acteurs
 économiques actuels pèsent de toutes leurs armes communicationnelles pour
-minimiser le lien entre nos addictions et l'agonie de la biosphère ou la décapitation
+minimiser le lien entre nos addictions et l'agonie de la biosphère. Comben d'utilisateurs sont au courant de la décapitation
 de montagnes américaines desquelles sont extraites à grand frais écologique
 du charbon pour les datacenters
 (voir les images des montagnes décapitées pour alimenter le datacenter de Apple
 dans le documentaire
-[internet : la pollution cachée](https://www.editionsmontparnasse.fr/p1735/Internet-La-pollution-cachee-DVD)).
+[internet : la pollution cachée](https://www.editionsmontparnasse.fr/p1735/Internet-La-pollution-cachee-DVD))&nbsp;?
 
 Nous avons été les chevilles ouvrières de possibles auxquels il va falloir renoncer
-pour trouver le courage et la détermination de prôner une sobriété numérique à
+et trouver le courage et la détermination de prôner une sobriété numérique à
 contre-courant de la doxa actuelle. Et ce dans un environnement professionnel ou
-le somptuaire est la norme et la demande. Mais aujourd'hui nous sèmerons peut-être
+le somptuaire est la norme et la demande. Mais aujourd'hui nous pouvons semer
 les germes d'une éthique et des pratiques qui, combinées aux efforts que tout être humain
 voudra bien consentir, permettront peut-être d'avoir d'ici cinquante ans les
 ressources énergétiques qui nous permettent de tenir jusqu'à une transition
 énergétique crédible en ayant épargné à l'atmosphère terrestre les quelques
 tonnes de CO₂ de trop. ZZZZZ si trop tard ....
-Aussi : les pratiques et outils que nous développerons
+Aussi : les pratiques et outils que nous développons
 maintenant pourraient être les bases d'une informatique résiliente si
 l'humanité devait durablement plonger dans l'austérité. Produire de nouveaux
 usages numériques ne suffit pas: contribuer à leur adoption est probablement
-le gros du travail. Je pense à mes enfants et je me dis que quelque soit
-l'issue de cette bataille, il m'est impossible de baisser les bras ou de me
-taire. Aussi je remercie le comité de programme de JRES de m'offrir cette
-tribune.
+le gros du travail. Pensons à nos enfants et dison-nous que, quelque soit
+l'issue de cette bataille, nous ne devons ni baisser les bras, ni nous taire.
 
 # Les mécaniques de la pollution
 
